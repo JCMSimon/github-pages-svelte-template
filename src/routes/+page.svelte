@@ -5,7 +5,7 @@
 
 <body class="flex-center">
 	<h2 class="title text">Github pages svelte template</h2>
-	<p class="description text">Simple template for using Svelte on github pages + auto deploy</p>
+	<p class="description text">Simple template for using Svelte on github pages + auto deploy.</p>
 </body>
 
 <style>
